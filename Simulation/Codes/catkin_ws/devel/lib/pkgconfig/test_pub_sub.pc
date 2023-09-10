@@ -1,8 +1,0 @@
-prefix=/home/ahmedmadyy/catkin_ws/devel
-
-Name: test_pub_sub
-Description: Description of test_pub_sub
-Version: 0.0.0
-Cflags: -I/home/ahmedmadyy/catkin_ws/devel/include
-Libs: -L${prefix}/lib 
-Requires: roscpp rospy message_runtime

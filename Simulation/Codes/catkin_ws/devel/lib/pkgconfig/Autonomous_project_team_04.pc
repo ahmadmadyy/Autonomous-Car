@@ -1,8 +1,0 @@
-prefix=/home/ahmedmadyy/catkin_ws/devel
-
-Name: Autonomous_project_team_04
-Description: Description of Autonomous_project_team_04
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
