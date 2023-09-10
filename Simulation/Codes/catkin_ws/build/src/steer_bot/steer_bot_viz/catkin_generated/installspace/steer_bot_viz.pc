@@ -1,0 +1,8 @@
+prefix=/home/ahmedmadyy/catkin_ws/install
+
+Name: steer_bot_viz
+Description: Description of steer_bot_viz
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

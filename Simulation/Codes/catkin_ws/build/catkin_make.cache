@@ -1,0 +1,2 @@
+Autonomous_project_team_04:src/steer_bot/steer_bot_control:src/steer_bot/steer_bot_description:src/steer_bot/steer_bot_gazebo:src/steer_bot/steer_bot_viz:src/steer_drive_ros/steer_bot_hardware_gazebo:src/steer_drive_ros/steer_drive_controller:src/steer_drive_ros/steer_drive_ros:src/steer_drive_ros/stepback_and_steerturn_recovery
+-DCATKIN_DEVEL_PREFIX=/home/ahmedmadyy/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ahmedmadyy/catkin_ws/install -G Unix Makefiles

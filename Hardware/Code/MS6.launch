@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<launch>
+
+	<node pkg="Autonomous_Systems_Project_Team_4" name="lateral" type="lateral.py" output="screen"/>
+		
+       
+	<node pkg="Autonomous_Systems_Project_Team_4" name="long" type="long.py" output="screen"/>
+	
+
+	<node pkg="Autonomous_Systems_Project_Team_4" name="plan" type="plan.py" output="screen"/>
+	
+
+</launch>
