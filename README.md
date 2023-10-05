@@ -8,6 +8,9 @@
 #### To control the car, we employed a PID algorithm for longitudinal control. Additionally, we tested two different algorithms for lateral control: Stanley and Pure-pursuit. The ultimate goal of the project was to develop a teleoperation node, allowing us to control the car from a computer's keyboard arrows, make it move in a 10m straight line while keeping its lane, and finally, enable it to avoid obstacles by shifting lanes.
 
 ## Youtube Video:
-[![Autonomous Car Using ROS, Linux, and Python for Obstacle Avoidance and Straight Line Motion]
-(https://github.com/ahmadmadyy/Autonomous-Car/assets/98853949/fef6c554-081d-4262-9766-0ec8184e87d7)] 
-(https://www.youtube.com/watch?v=9ybnkhmj1Nw)  
+[![Watch the video](https://github.com/ahmadmadyy/Autonomous-Car/assets/98853949/fef6c554-081d-4262-9766-0ec8184e87d7)](https://www.youtube.com/watch?v=9ybnkhmj1Nw)
+
+[<img src="https://github.com/ahmadmadyy/Autonomous-Car/assets/98853949/fef6c554-081d-4262-9766-0ec8184e87d7" width="600" height="300"
+/>](https://www.youtube.com/watch?v=9ybnkhmj1Nw)
+
+
