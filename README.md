@@ -10,7 +10,4 @@
 ## Youtube Video:
 [![Watch the video](https://github.com/ahmadmadyy/Autonomous-Car/assets/98853949/fef6c554-081d-4262-9766-0ec8184e87d7)](https://www.youtube.com/watch?v=9ybnkhmj1Nw)
 
-[<img src="https://github.com/ahmadmadyy/Autonomous-Car/assets/98853949/fef6c554-081d-4262-9766-0ec8184e87d7" width="600" height="300"
-/>](https://www.youtube.com/watch?v=9ybnkhmj1Nw)
-
 
